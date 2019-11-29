@@ -1,0 +1,96 @@
+body{
+    width: 450px;
+    height: auto;
+    margin-left: 25px;
+    background: rgb(224, 223, 223);
+}
+.bars, .search{
+   margin: 20px;
+   color: rgb(14, 13, 13);
+}
+.logo{
+    margin-bottom: -30px;
+}
+.logo-class{
+    margin-bottom: 20px;;
+}
+.apiBox{
+    background: rgba(8, 6, 80, 0.876);
+    height: 60px;
+    width: 100%;
+}
+.api{
+color: white;
+float: left;
+margin-left: 30px;
+font-weight: normal;
+}
+.table{
+    color: rgb(255, 255, 255);
+    float: right;
+    margin: 25px 25px 10px 0px ;
+    width: 10px;
+}
+.hr1{
+margin: 20px 0px 20px 0px;
+}
+.hr2{
+    margin: 20px 0px 20px 0px;
+}
+.search-box{
+    margin-right: 40px;
+    border-bottom-style: solid;
+}
+.search-icon{
+    color: rgb(141, 131, 131);
+   float: left;
+   margin:0px 20px 0px 20px;
+}
+.search-text{
+    color: ;
+    margin-top: 20px;
+}
+.LAST{
+    
+    padding: 0px;
+    margin-left: 30px;
+}
+.span1{
+    border: solid 1px;
+    background: rgb(255, 255, 255);
+    margin: 40px -10px 40px 0px;
+    padding: 10px 60px 10px 60px;
+    color: rgb(72, 72, 253);
+    text-align: center;
+}
+.span2{
+    margin: 40px 0px 40px 0px;
+    border: solid 1px;
+    background: rgb(72, 72, 253);
+    padding: 10px 80px 10px 80px;
+    color: white;
+    text-align: center;
+}
+.wifi{
+    float: right;
+    margin-right: 10px;
+    color: rgb(141, 131, 131);
+}
+.m-box{
+    background:rgb(224, 223, 223);
+    padding-bottom: 1px;
+}
+h2{
+    float: left;
+    color: black;
+    margin:-50px 0px 80px 20px;
+}
+.box{
+    margin: 70px 30px 40px 30px ;
+    width: 80%;
+    padding-bottom: 40px;
+    box-shadow: 0px 0px 5px 5px grey;
+    border-radius: 8px;
+    padding-left: 25px;
+    background: rgb(248, 246, 246);
+}
